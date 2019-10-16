@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="439a3cb3-d957-4a58-b119-33715eacc857" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/crown-icon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/header/header.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/header/header.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/custom-button/custom-button.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/custom-button/custom-button.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sign-in/sign-in.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sign-in/sign-in.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sign-up/sign-up.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sign-up/sign-up.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/form-input/form-input.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/form-input/form-input.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/sign-in-sign-up/sign-in-sign-up.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/sign-in-sign-up/sign-in-sign-up.styles.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,11 +45,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Job Test\Fullstack_Node_React\ReactJS\ecommerce-application\src\components" />
       <recent name="D:\Job Test\Fullstack_Node_React\ReactJS\ecommerce-application\src\assets" />
       <recent name="D:\Job Test\Fullstack_Node_React\ReactJS\ecommerce-application\src\data" />
       <recent name="D:\Job Test\Fullstack_Node_React\ReactJS\ecommerce-application\src\data-2" />
       <recent name="D:\Job Test\Fullstack_Node_React\ReactJS\ecommerce-application\src\components\directory" />
-      <recent name="D:\Job Test\Fullstack_Node_React\ReactJS\ecommerce-application\src\pages\homepage" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -87,7 +93,7 @@
       <workItem from="1571140130475" duration="7508000" />
       <workItem from="1571191025139" duration="1296000" />
       <workItem from="1571211616057" duration="661000" />
-      <workItem from="1571227499184" duration="1122000" />
+      <workItem from="1571227499184" duration="5277000" />
     </task>
     <servers />
   </component>
