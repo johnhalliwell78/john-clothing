@@ -2,16 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="439a3cb3-d957-4a58-b119-33715eacc857" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/redux/root-reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/user/user-reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/user/user.actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/shopping-cart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/cart-dropdown/cart-dropdown.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/cart-dropdown/cart-dropdown.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/cart-icon/cart-icon.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/cart-icon/cart-icon.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/cart/cart.actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/cart/cart.reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/cart/cart.types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/user/user.types.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/header/header.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/root-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/root-reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/user/user-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/user/user-reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/user/user.actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/user/user.actions.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,8 +52,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Job Test\Fullstack_Node_React\ReactJS\ecommerce-application\src\components" />
       <recent name="D:\Job Test\Fullstack_Node_React\ReactJS\ecommerce-application\src\assets" />
+      <recent name="D:\Job Test\Fullstack_Node_React\ReactJS\ecommerce-application\src\components" />
       <recent name="D:\Job Test\Fullstack_Node_React\ReactJS\ecommerce-application\src\data" />
       <recent name="D:\Job Test\Fullstack_Node_React\ReactJS\ecommerce-application\src\data-2" />
       <recent name="D:\Job Test\Fullstack_Node_React\ReactJS\ecommerce-application\src\components\directory" />
@@ -102,7 +107,10 @@
       <workItem from="1572315409679" duration="4028000" />
       <workItem from="1572350475940" duration="1331000" />
       <workItem from="1572351975938" duration="4769000" />
-      <workItem from="1572399253750" duration="7900000" />
+      <workItem from="1572399253750" duration="8152000" />
+      <workItem from="1572523652829" duration="119000" />
+      <workItem from="1574565552104" duration="5194000" />
+      <workItem from="1575257046255" duration="3529000" />
     </task>
     <servers />
   </component>
