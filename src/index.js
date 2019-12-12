@@ -7,11 +7,16 @@ import {BrowserRouter} from "react-router-dom";
 import {Provider} from 'react-redux';
 import {createStore} from "redux";
 import RootReducer from "./redux/root-reducer";
-import store from "./redux/store";
+import {store, persistor} from "./redux/store";
+import {PersistGate} from "redux-persist/integration/react";
 
 
 ReactDOM.render(<Provider store={store}>
-    <BrowserRouter><App/></BrowserRouter>
+    <BrowserRouter>
+        <PersistGate persistor={persistor}>
+            <App/>
+        </PersistGate>
+    </BrowserRouter>
 </Provider>, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
